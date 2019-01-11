@@ -1,0 +1,3 @@
+{
+ "_comment": "Use for testing, to get json return from API call remove builder, br.readline() commentary in the java file."
+}
